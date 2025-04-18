@@ -1,0 +1,1 @@
+# Finaceiro.c
