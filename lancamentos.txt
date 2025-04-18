@@ -1,0 +1,2 @@
+R;Salario;4000.00
+D;internet;125.00
